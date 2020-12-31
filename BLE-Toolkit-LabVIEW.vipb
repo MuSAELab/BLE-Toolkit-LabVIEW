@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2017" Created_Date="2015-07-20 14:41:44" Modified_Date="2020-12-30 19:48:42" Creator="Cassani" Comments="" ID="6a9d3fa82ac1eff3b2cdc7bc94c2765d">
+<VI_Package_Builder_Settings Version="2017" Created_Date="2015-07-20 14:41:44" Modified_Date="2020-12-30 20:28:02" Creator="Cassani" Comments="" ID="62a5bd771d326d2fc2373c5981f0877d">
   <Library_General_Settings>
     <Package_File_Name>BLE_Toolkit_LabVIEW</Package_File_Name>
-    <Library_Version>1.4.0.4</Library_Version>
+    <Library_Version>1.4.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>ble_toolkit_source</Library_Source_Folder>
     <Library_Output_Folder>VI_package</Library_Output_Folder>
@@ -125,7 +125,7 @@ Provided examples indlude:
         <Namespace/>
       </Namespace_Overrides>
     </Source_Files>
-    <License_Agreement_Filepath>LICENSE</License_Agreement_Filepath>
+    <License_Agreement_Filepath>LICENSE.md</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -265,7 +265,7 @@ Provided examples indlude:
         <Path>ble_toolkit_source\support_vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BA720546BBC43454C7DB0202EBD237A4</GUID>
+      <GUID>A0F0E50DC0B3F34D6082F95CB701270E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -762,7 +762,7 @@ Provided examples indlude:
         <Path>ble_toolkit_source\api_commands\ble_rsp_system_get_info.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>94198C3CFE74D176A923AD3A2B696A02</GUID>
+      <GUID>CCCBE6B931788B1FF72443F709692D26</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1133,7 +1133,7 @@ Provided examples indlude:
         <Path>ble_toolkit_source\ble_functions\ble_write_client_characterist_configuration.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DD829486C4C815B33764CE029844C62E</GUID>
+      <GUID>13BF1282688E3CB890865B0824411511</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1182,7 +1182,7 @@ Provided examples indlude:
         <Path>ble_toolkit_source\ble_specification\ble_read_battery.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>9785CE568D19E26CB4C2981698387037</GUID>
+      <GUID>70525E0B9F38F97D20283E3E2CE218FA</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -1371,7 +1371,7 @@ Provided examples indlude:
         <Path>ble_toolkit_source\support_vi\ble_write_message.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>4A3FF32C83F8E9105D259537A00CB292</GUID>
+      <GUID>68AD8E8B6F1F4DA48A2727E860887F04</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
