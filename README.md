@@ -4,15 +4,15 @@
 
 While [**LabVIEW** supports Classic Bluetooth](http://www.ni.com/white-paper/3260/en/) (on Windows), it does not provide support for **BLE**. To solve this issue, a workaround is to use a BLE USB dongle to handle the communication.  http://digital.ni.com/public.nsf/allkb/4BA51235CFC8519086257F5E005E81D5
 
-The **BLE Toolkit for LabVIEW** is an implementation of the [BGAPI protocol v1.3](http://www.silabs.com/documents/login/reference-manuals/Bluetooth_Smart_Software-BLE-1.3-API-RM.pdf) (by [Silicon Labs](http://www.silabs.com/)). **BGAPI protocol** is a based command and response protocol that allows the Bluetooth
+The **BLE Toolkit for LabVIEW** is an implementation of the [BGAPI protocol v1.10](https://www.silabs.com/documents/public/reference-manuals/Bluetooth-LE-Software-API%20Reference-Manual-for-BLE-Version-1.10.pdf) (by [Silicon Labs](http://www.silabs.com/)). **BGAPI protocol** is a based command and response protocol that allows the Bluetooth
 Smart stack (in Silicon Labs BLE devices) to be controlled form an external host and an application over USB/UART.
 
 This Toolbox has been developed and tested with the [BLE USB dongle BLED112](http://www.silabs.com/products/wireless/bluetooth/bluetooth-low-energy-modules/ble121lr-bluetooth-smart-long-range-module1)
 
 ## Installation
-To install the **BLE Toolkit for LabVIEW**, the **VI Package Manager** by [JKI](http://jki.net/) is needed.
-1. Download and install [VI Package Manager](https://vipm.jki.net/get)
-2. Download and install the last VI package for the **BLE Toolkit for LabVIEW** from [here](https://github.com/rcassani/BLE-Toolkit-LabVIEW/releases)
+To install the **BLE Toolkit for LabVIEW**, the **VIPM** (VI Package Manager) by [JKI](https://www.jki.net/) is needed.
+1. Download and install [VI Package Manager](https://www.vipm.io/download/)
+2. Download and install the latest VI package for the **BLE Toolkit for LabVIEW** from [here](https://github.com/rcassani/BLE-Toolkit-LabVIEW/releases)
 
 ## Usage
 1. Obtain a BLED112 USB dongle (e.g. in [Digi-Key](https://www.digikey.ca/products/en?keywords=bled112))
